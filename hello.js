@@ -1,3 +1,3 @@
 console.log('Hello, Git!')
-dkfnkdsnvknvjk:kn:; 
+dkfnkdsnvknvjk:kn
 dmejhfhjhbdjhj;hkbhja
